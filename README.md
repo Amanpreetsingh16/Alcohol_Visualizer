@@ -31,6 +31,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
  
 ## Chart Preview
 ### Scatter plot
-image.png
+
+![](src/component/images/scatter.png)
+
 ### Bar chart
-image.png
+![](src/component/images/bar.png)
